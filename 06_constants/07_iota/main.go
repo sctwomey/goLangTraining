@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import fmt "fmt"
 
 const (
 	_  = iota             // 0
