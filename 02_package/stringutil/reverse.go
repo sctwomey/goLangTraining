@@ -14,4 +14,4 @@ go build
 
 go install
 	will place the package
- */
+*/

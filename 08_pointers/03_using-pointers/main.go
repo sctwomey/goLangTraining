@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(b)  // 0x20818a220
 	fmt.Println(*b) // 43
 
-	*b = 42 // b says, "The value at this address, chang it to 42"
+	*b = 42        // b says, "The value at this address, chang it to 42"
 	fmt.Println(a) // 42
 }
 

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"net/http"
-	"io/ioutil"
 	"fmt"
+	"io/ioutil"
+	"net/http"
 )
 
 func main() {
@@ -12,5 +12,3 @@ func main() {
 	res.Body.Close()
 	fmt.Printf("%s", page)
 }
-
-

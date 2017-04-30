@@ -19,9 +19,9 @@ that variable would need to be package scope.
 */
 
 /* Anonymous Function
-	It is a function without a name.
- */
+It is a function without a name.
+*/
 
 /* func expression
-	assigning a func to a variable.
- */
+assigning a func to a variable.
+*/
