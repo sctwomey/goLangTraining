@@ -28,4 +28,3 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 */
 
 // I have to build the .exe file to run most of the programs, so that is why I have a main.exe in the folder.
-// It's stupid, but that's Windows, I guess.
